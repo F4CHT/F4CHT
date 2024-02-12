@@ -1,7 +1,11 @@
 <h1 align="center">HELLO!👋, I'm Berat</h1>
 <h3 align="center">A passionate cybersecurity student in Turkey.</h3>
 
-- 🌱 I’m currently learning **&zero day attacks**
+- 🌱 I’m currently learning **web application firewall&zero day exploit**
+
+- 📫 How to reach me **https://steamcommunity.com/id/eye4uuu/**
+
+- ⚡ Fun fact **I am an ignorant nobody.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
