@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **web application firewall&zero day exploit**
 
-- 📫 How to reach me **https://steamcommunity.com/id/addictfaker/**
+- 📫 How to reach me **[https://steamcommunity.com/id/addictfaker/]steam[/URL]/**
 
 - ⚡ Fun fact **I am an ignorant nobody.**
 
