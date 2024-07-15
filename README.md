@@ -1,4 +1,4 @@
-<h1 align="center">HELLO!👋, I'm Berat</h1>
+<h1 align="center">HELLO!</h1>
 <h3 align="center">A passionate cybersecurity student in Turkey.</h3>
 
 - 🌱 I’m currently learning **web application firewall&zero day exploit**
