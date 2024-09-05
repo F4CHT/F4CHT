@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **web application firewall&zero day exploit**
 
-- 📫 How to reach me **discord : f4cht** steam: addictfaker
+- 📫 How to reach me **discord : f4cht** steam: sshunn1337
 
 - ⚡ Fun fact **I am an ignorant nobody.**
 
